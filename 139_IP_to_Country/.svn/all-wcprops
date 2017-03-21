@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9/trunk/ruby%20quiz/139_IP_to_Country
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9/trunk/ruby%20quiz/139_IP_to_Country/.project
+END
+IpToCountry.csv
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/ruby%20quiz/139_IP_to_Country/IpToCountry.csv
+END
+.loadpath
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9/trunk/ruby%20quiz/139_IP_to_Country/.loadpath
+END
+IpToCountry2.csv
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9/trunk/ruby%20quiz/139_IP_to_Country/IpToCountry2.csv
+END
+IP_to_Country.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9/trunk/ruby%20quiz/139_IP_to_Country/IP_to_Country.rb
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/trunk/ruby%20quiz/139_IP_to_Country/test.rb
+END

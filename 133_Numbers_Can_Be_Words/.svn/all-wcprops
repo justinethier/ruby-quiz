@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9/trunk/ruby%20quiz/133_Numbers_Can_Be_Words
+END
+linux.words.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9/trunk/ruby%20quiz/133_Numbers_Can_Be_Words/linux.words.txt
+END
+.loadpath
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9/trunk/ruby%20quiz/133_Numbers_Can_Be_Words/.loadpath
+END
+words_as_numbers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9/trunk/ruby%20quiz/133_Numbers_Can_Be_Words/words_as_numbers.rb
+END
+tc_words_as_numbers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9/trunk/ruby%20quiz/133_Numbers_Can_Be_Words/tc_words_as_numbers.rb
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/ruby%20quiz/133_Numbers_Can_Be_Words/.project
+END

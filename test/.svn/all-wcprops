@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/9/trunk/ruby%20quiz/test
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/9/trunk/ruby%20quiz/test/.project
+END
+mixins.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9/trunk/ruby%20quiz/test/mixins.rb
+END
+.loadpath
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9/trunk/ruby%20quiz/test/.loadpath
+END
+two_dim_array.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9/trunk/ruby%20quiz/test/two_dim_array.rb
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9/trunk/ruby%20quiz/155_parsing_json
+END
+parse_json.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9/trunk/ruby%20quiz/155_parsing_json/parse_json.rb
+END
+.loadpath
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9/trunk/ruby%20quiz/155_parsing_json/.loadpath
+END
+tc_parse_json.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/ruby%20quiz/155_parsing_json/tc_parse_json.rb
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/trunk/ruby%20quiz/155_parsing_json/.project
+END

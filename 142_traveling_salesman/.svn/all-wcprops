@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9/trunk/ruby%20quiz/142_traveling_salesman
+END
+rec_solution_gen.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9/trunk/ruby%20quiz/142_traveling_salesman/rec_solution_gen.rb
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/ruby%20quiz/142_traveling_salesman/.project
+END
+genetic_algorithm.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9/trunk/ruby%20quiz/142_traveling_salesman/genetic_algorithm.rb
+END
+grid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9/trunk/ruby%20quiz/142_traveling_salesman/grid.rb
+END
+.loadpath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9/trunk/ruby%20quiz/142_traveling_salesman/.loadpath
+END
+other_ruby_quiz_sols.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9/trunk/ruby%20quiz/142_traveling_salesman/other_ruby_quiz_sols.rb
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9/trunk/ruby%20quiz/146_vehicle_counters
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9/trunk/ruby%20quiz/146_vehicle_counters/.project
+END
+vehicle_counter.data
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9/trunk/ruby%20quiz/146_vehicle_counters/vehicle_counter.data
+END
+output-avg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9/trunk/ruby%20quiz/146_vehicle_counters/output-avg.txt
+END
+.loadpath
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9/trunk/ruby%20quiz/146_vehicle_counters/.loadpath
+END
+output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/ruby%20quiz/146_vehicle_counters/output.txt
+END
+small_test.data
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9/trunk/ruby%20quiz/146_vehicle_counters/small_test.data
+END
+vehicle_counter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9/trunk/ruby%20quiz/146_vehicle_counters/vehicle_counter.rb
+END

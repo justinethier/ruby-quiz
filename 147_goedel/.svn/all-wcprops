@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9/trunk/ruby%20quiz/147_goedel
+END
+goedel_cmd.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9/trunk/ruby%20quiz/147_goedel/goedel_cmd.rb
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9/trunk/ruby%20quiz/147_goedel/.project
+END
+.loadpath
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9/trunk/ruby%20quiz/147_goedel/.loadpath
+END
+goedel_benchmark.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9/trunk/ruby%20quiz/147_goedel/goedel_benchmark.rb
+END
+goedel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9/trunk/ruby%20quiz/147_goedel/goedel.rb
+END

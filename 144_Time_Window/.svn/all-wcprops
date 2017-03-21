@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9/trunk/ruby%20quiz/144_Time_Window
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9/trunk/ruby%20quiz/144_Time_Window/.project
+END
+time_window.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9/trunk/ruby%20quiz/144_Time_Window/time_window.rb
+END
+.loadpath
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/trunk/ruby%20quiz/144_Time_Window/.loadpath
+END
+tc_time_window.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/ruby%20quiz/144_Time_Window/tc_time_window.rb
+END

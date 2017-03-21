@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9/trunk/ruby%20quiz/132_Crossword%20Solver
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/ruby%20quiz/132_Crossword%20Solver/.project
+END
+test_board.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9/trunk/ruby%20quiz/132_Crossword%20Solver/test_board.txt
+END
+linux.words.a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9/trunk/ruby%20quiz/132_Crossword%20Solver/linux.words.a.txt
+END
+test_large_dict.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9/trunk/ruby%20quiz/132_Crossword%20Solver/test_large_dict.txt
+END
+linux.words.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9/trunk/ruby%20quiz/132_Crossword%20Solver/linux.words.txt
+END
+.loadpath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9/trunk/ruby%20quiz/132_Crossword%20Solver/.loadpath
+END
+test_large_board.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9/trunk/ruby%20quiz/132_Crossword%20Solver/test_large_board.txt
+END
+test_dict.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9/trunk/ruby%20quiz/132_Crossword%20Solver/test_dict.txt
+END
+test_partial_board.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9/trunk/ruby%20quiz/132_Crossword%20Solver/test_partial_board.txt
+END
+crossword_solver.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9/trunk/ruby%20quiz/132_Crossword%20Solver/crossword_solver.rb
+END
